@@ -100,7 +100,9 @@ tools: Read, Write, Edit, Bash, Grep, Glob
 
 👉 https://github.com/tomoka1211/zenn-sample （clone か ZIP ダウンロードで入手）
 
-実務をまるごと回したい人向けに、実務エージェント10体やスラッシュコマンド集、運用プレイブックをまとめた Lite / Pro 版も用意しています（詳細は配布先に）。
+実務をまるごと回したい人向けに、**実務エージェント10体＋スキル5種**をまとめた Lite 版（¥2,980）も用意しています（運用プレイブックやコマンド集を足した Pro は準備中）。
+
+👉 Lite版: https://schlagerlife.gumroad.com/l/azyelu
 
 ## おわりに
 
